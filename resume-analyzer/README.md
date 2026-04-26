@@ -55,3 +55,6 @@ Key Learning: This project demonstrates:
 3.Prompt engineering for structured outputs
 4.Real-world AI application development
 
+Live Demo
+- Go to this link: https://resume-analyzer-w7dw.onrender.com/docs
+
